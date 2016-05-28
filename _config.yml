@@ -4,7 +4,7 @@ bio:                'Hidup Harus saliang mencintai satu sama lain'
 description:        "Web Desaign, and i like coffy"
 reading_time:       true
 words_per_minute:   200
-logo:               'http://t9hacks.org/images/t9hacks_logo_transparent.png'
+logo:               ' https://raw.githubusercontent.com/TeresnoMaulana16/teresnomaulana16.github.io/master/assets/img/teresno.jpg'
 background:         ' https://raw.githubusercontent.com/TeresnoMaulana16/teresnomaulana16.github.io/master/assets/img/latar.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
