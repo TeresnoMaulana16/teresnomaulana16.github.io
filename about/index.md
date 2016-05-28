@@ -9,7 +9,7 @@ date: 2016-05-25
 ## It's Me
 
 {% capture images %}
-https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/teresno.jpg
+https://raw.githubusercontent.com/TeresnoMaulana16/teresnomaulana16.github.io/master/assets/img/teresno.jpg
 {% endcapture %}
 {% include gallery images=images caption="it's me" cols=2 %}
 
