@@ -27,7 +27,7 @@ Perkenalkan, saya **Teresno Maulana** teman-teman biasa memanggil saya  **Tresno
 
 
     
-    <center><h3> -Terima Kasih- </h3></center>
+
 
  
 
