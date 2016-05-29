@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/TeresnoMaulana16/teresnomaulana16.github.io/ma
 ## Bio
 * Nama          : Teresno Maulana
 * TTL           : Medan, 16 Mei 1994 <br>
-* Kelas         : SI "C" <br>
+* Kelas         : SI "C" Semester VI <br>
 * Jurusan       : [Sistem Informasi](http://sif.uin-suska.ac.id/)<br>
 * Fakultas      : [Sains dan Teknologi](http://fst.uin-suska.ac.id/)<br>
 * Universitas   : [UIN Suska Riau](http://uin-suska.ac.id/)<br>
