@@ -4,14 +4,14 @@ title: About Me
 tags: [about]
 date: 2016-05-25
 ---
-<center>Pencari kepuasan akibat dari setitik rasa ingin tahu</center>
+<center>Berbagi kebaikan dalam kebaikan sangat Indah</center>
 
-## It's Me
+## Ini saya
 
 {% capture images %}
 https://raw.githubusercontent.com/TeresnoMaulana16/teresnomaulana16.github.io/master/assets/img/teresno.jpg
 {% endcapture %}
-{% include gallery images=images caption="it's me" cols=2 %}
+{% include gallery images=images caption="Ini saya" cols=2 %}
 
 ## Bio
 * Nama          : Teresno Maulana
@@ -22,12 +22,11 @@ https://raw.githubusercontent.com/TeresnoMaulana16/teresnomaulana16.github.io/ma
 * Universitas   : [UIN Suska Riau](http://uin-suska.ac.id/)<br>
 * Motto         : Jadi yang terbaik dari yang baik
 
-## who am i?
-Perkenalkan, saya **Andre Oktora** yang biasa dipanggil kawan-kawan terdekat dengan **Tora** atau **siMbatak**, Seorang mahasiswa [uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/). Saya, bisa juga dikatakan seorang manusia malam, kenapa? mungkin karna sering menghabiskan waktu dimalam hari dan tidur disiang hari(kalau ada kesempatan :D). Dan saya, lupa dunia jika sudah bermesraan  dengan laptop apalagi kalau sudah dibuat penasaran dengan sebaris cerita dari sebuah script coding. Sepertinya sudah cukup untuk bionya :D
+## Siapa Saya?
+Perkenalkan, saya **Teresno Maulana** teman-teman biasa memanggil saya  **Tresno** atau **Maulana**, Seorang mahasiswa [uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/). Saya mempunyai hobi bertpetualang ke rumah teman-teman dan jalan-jalan malam untuk melihat indah nya suasana di malam hari :D
 
 
-    
-<center><h3> -Terima Kasih- </h3></center>
+    <center><h3> -Terima Kasih- </h3></center>
 
  
 
