@@ -26,17 +26,7 @@ https://raw.githubusercontent.com/TeresnoMaulana16/teresnomaulana16.github.io/ma
 Perkenalkan, saya **Teresno Maulana** teman-teman biasa memanggil saya  **Tresno** atau **Maulana**, Seorang mahasiswa [uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/). Saya mempunyai hobi bertpetualang ke rumah teman-teman dan jalan-jalan malam untuk melihat indah nya suasana di malam hari :D
 
 
-<!DOCTYPE html>
-<html>
-<body>
 
-<audio controls>
-  <source src="TUGAS.ogg" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
-
-</body>
-</html>
 
 
 
