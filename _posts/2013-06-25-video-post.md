@@ -1,12 +1,10 @@
-<html>
-<body>
+
 
 <audio controls>
   <source src="TUGAS.ogg" type="audio/ogg">
 </audio>
 
-</body>
-</html>
+
 ---
 layout: post
 title:  "A Post with a Video"
