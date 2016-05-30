@@ -1,10 +1,3 @@
-
-
-<audio controls>
-  <source src="TUGAS.ogg" type="audio/ogg">
-</audio>
-
-
 ---
 layout: post
 title:  "A Post with a Video"
